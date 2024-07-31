@@ -6,4 +6,6 @@ Term Paper:
 Idea: Multiagent feat. education
 
 More specifically:  
-The important elements affecting student performance in smart education system.
+Design and Implementation of the Multi-Agent System in Education. A Literature Review.
+Multi-Agent simulation of learning environments.
+
