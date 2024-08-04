@@ -1,7 +1,7 @@
 # Course_AI_in_Education
 
 
-Term Paper:  
+### Term Paper:  
 
 Idea: Multiagent as peers x Education
 
