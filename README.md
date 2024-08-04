@@ -1,5 +1,7 @@
 # Course_AI_in_Education
 
+### Readings in seminar
+See the files in repo.
 
 ### Term Paper:  
 
