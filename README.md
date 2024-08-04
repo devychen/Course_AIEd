@@ -1,9 +1,9 @@
 # Course_AI_in_Education
 
-### Readings in seminar
+## Readings in seminar
 See the files in repo.
 
-### Term Paper:  
+## Term Paper:  
 
 Idea: Multiagent as peers x Education
 
@@ -20,3 +20,6 @@ Readings <br>
 A Chatterbot Case Study](https://infonomics-society.org/wp-content/uploads/iji/published-papers/volume-3-2010/Multi-Agent-Systems-in-a-Computational-Environment-of-Education-A-Chatterbot-Case-Study.pdf)  
 [Multiagent simulation of learning environments](https://dl.acm.org/doi/abs/10.1145/1082473.1082617)  
 
+### A Glimpse
+
+**Keyword** Multi-agent systems, learning environment, Education.
