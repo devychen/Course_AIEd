@@ -6,10 +6,8 @@ Term Paper:
 Idea: Multiagent feat. education
 
 More specifically:  
-
-Using AI agents to simulate learning environment, with AI being the classmates (not or not only as teachers as in previous studies we've seen).  
-
-With the aim to guide future downstream application of multi-agents in simulating studying environment, this paper wants to do a relatively systemantic review on the following aspects:
+- Using AI agents to simulate learning environment, with AI being the classmates (not or not only as teachers as in previous studies we've seen).  
+- With the aim to guide future downstream application of multi-agents in simulating studying environment, this paper wants to do a relatively systemantic review on the following aspects:
 1. Primarily, how to simulate the environments, what factors should be considered.
 2. How the interactions of agents and human/agent teachers, agents and human classmates influence the performance of students.
 3. Else tbc.
