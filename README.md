@@ -3,7 +3,7 @@
 
 Term Paper:  
 
-Idea: Multiagent feat. education
+Idea: Multiagent as peers x Education
 
 More specifically:  
 - Using AI agents to simulate learning environment, with AI being the classmates (not or not only as teachers as in previous studies we've seen).  
