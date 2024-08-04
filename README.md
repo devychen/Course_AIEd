@@ -16,10 +16,14 @@ More specifically:
 
 
 Readings <br>
-[Multi-Agent Systems in a Computational Environment of Education:
+- [Multi-Agent Systems in a Computational Environment of Education:
 A Chatterbot Case Study](https://infonomics-society.org/wp-content/uploads/iji/published-papers/volume-3-2010/Multi-Agent-Systems-in-a-Computational-Environment-of-Education-A-Chatterbot-Case-Study.pdf)  
-[Multiagent simulation of learning environments](https://dl.acm.org/doi/abs/10.1145/1082473.1082617)  
+- [Multiagent simulation of learning environments](https://dl.acm.org/doi/abs/10.1145/1082473.1082617)  
+- [SimEd: Simulating Education as a Multi Agent System](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=89bc5cd341f8858c4e1f71b6c9c629d241de3761)  
+- [Enhanced Education by Using Intelligent Agents in
+Multi-Agent Adaptive e-Learning Systems](https://sic.ici.ro/documents/452/SIC_2015-1-Art2.pdf)
+- etc...
 
 ### A Glimpse
 
-**Keyword** Multi-agent systems, learning environment, Education.
+**Keyword** Multi-agent systems, Collaborative learning.
